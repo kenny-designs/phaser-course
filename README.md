@@ -5,6 +5,10 @@
 
 Try and steal as much treasure as you can while avoiding dragons by holding down the left mouse button, or touch the screen, to move your character across the screen.
 
+![crossing game](./screenshots/crossing-game.png)
+
 ## [Spanish Learning Game](https://kenny-designs.github.io/phaser-course/spanishLearningGame/game/)
 
 Click the object that goes with the word said in Spanish.
+
+![spanish game](./screenshots/spanish-game.png)
