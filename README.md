@@ -12,3 +12,9 @@ Try and steal as much treasure as you can while avoiding dragons by holding down
 Click the object that goes with the word said in Spanish.
 
 ![spanish game](./screenshots/spanish-game.png)
+
+## [Virtual Pet Game](https://kenny-designs.github.io/phaser-course/virtualPetGame/game/)
+
+Keep your pet happy and well-fed or else they'll die! Simply click, or touch, the item you wish to give them then click where you want it in the scene and they'll rush right to it! Careful though, if your pet's health or fun reaches zero they'll die :(
+
+![pet game](./screenshots/pet-game.png)
