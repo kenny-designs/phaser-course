@@ -88,9 +88,11 @@ gameScene.create = function() {
   });
 
   // print coordinates upon mouse click
+  /*
   this.input.on('pointerdown', function(pointer) {
     console.log(pointer.position);
   });
+  */
 };
 
 // executed on every frame
@@ -205,16 +207,22 @@ gameScene.setupLevel = function() {
     // add to the group
     this.fires.add(newObj);
 
+    // allow us to drag fire for level development
+    /*
     newObj.setInteractive();
     this.input.setDraggable(newObj);
+    */
   }
 
+  // allow us to drag fire for simple level development
+  /*
   this.input.on('drag', function(pointer, gameObject, dragX, dragY) {
     gameObject.x = dragX;
     gameObject.y = dragY;
 
     console.log(dragX, dragY);
   });
+  */
 
   // player
   this.player = this.add.sprite(this.levelData.player.x, this.levelData.player.y, 'player', 3);
@@ -305,7 +313,7 @@ let config = {
       gravity: {
         y: 1000
       },
-      debug: true // allows us to see green arrow and pink border
+      debug: false // allows us to see debug info if set to true. Very useful!
     }
   }
 };
