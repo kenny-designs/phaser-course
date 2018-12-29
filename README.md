@@ -18,3 +18,9 @@ Click the object that goes with the word said in Spanish.
 Keep your pet happy and well-fed or else they'll die! Simply click, or touch, the item you wish to give them then click where you want it in the scene and they'll rush right to it! Careful though, if your pet's health or fun reaches zero they'll die :(
 
 ![pet game](./screenshots/pet-game.png)
+
+## [Mario Platformer Game](https://kenny-designs.github.io/phaser-course/marioPlatformerGame/game/)
+
+Avoid fire and barrels to reach the monkey at the top of the stage and win the game! Move with the WASD keys and jump with spacebar.
+
+![platformer game](./screenshots/platformer-game.png)
